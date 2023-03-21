@@ -27,7 +27,7 @@ namespace ConsoleApp.Test__xUnit
         [Fact]
         public void Should_Remove_Contact()
         {
-            // Arrange
+            // Arrangee
             menuManager.contacts.Add(contact);
             menuManager.contacts.Add(contact);
 
